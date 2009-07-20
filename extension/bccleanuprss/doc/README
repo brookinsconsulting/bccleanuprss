@@ -1,0 +1,38 @@
+README
+=====
+
+About
+=====
+
+BC Cleanup RSS
+
+RSS Cleanup Extension for eZ Publish. Cleans up rss import cache within eZ Publish
+
+A simple extension to clear rss feed cache a common need for most eZ Publish websites.
+
+Provides eZ Publish Script, Cronjob and Settings.
+
+Use either PHP Cli Script or eZ Publish Cronjob to clear rss cache within your eZ Publish website.
+
+License: GNU General Public License v2 (or later)
+
+Version: 0.0.18
+
+
+Install
+=======
+
+See, doc/INSTALL
+
+
+Credit
+======
+
+See, doc/CREDIT
+
+
+TODO
+====
+
+See, doc/TODO
+

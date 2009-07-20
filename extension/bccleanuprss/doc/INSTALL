@@ -1,0 +1,28 @@
+INSTALL 
+=======
+
+- Unpack Extension
+
+Unpack the extension from the compressed package.
+
+- Enable Extension
+
+Enable extension via admin gui or settings modifications manually.
+
+- Regenerate Autoloas
+
+cd /web/ez/doc;
+
+./bin/php/ezpgenerateautoloads.php
+
+- Run Script or Cronjob
+
+cd /web/ez/doc;
+
+./extension/bccleanuprss/bin/php/cleanuprss.php
+
+or
+
+cd /web/ez/doc;
+
+./runcronjobs.php cleanuprss
