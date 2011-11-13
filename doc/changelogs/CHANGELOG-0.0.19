@@ -2,5 +2,5 @@ CHANGELOG 0.0.19
 
 - Maintained: No file renames or settings name changes. Extension remains backwards compatible with previous versions
 - Updated: Bug fix for issue reported by Nicolas Lescure, http://projects.ez.no/bccleanuprss/forum/general/bug_using_class_ids_and_rss_limit#msg42504
-- Updated: Refactored extension internal variable naming convention to better match eZ Publish code standards and best practices
+- Updated: Re-factored extension internal variable naming convention to better match eZ Publish code standards and best practices
 - Updated: Revised source code headers

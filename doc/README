@@ -16,7 +16,7 @@ Use either PHP Cli Script or eZ Publish Cronjob to clear rss cache within your e
 
 License: GNU General Public License v2 (or later)
 
-Version: 0.0.18
+Version: 0.0.19
 
 
 Install
