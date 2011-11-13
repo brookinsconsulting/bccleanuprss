@@ -122,7 +122,6 @@ class BCCleanupRSS
                 $log = 'Deleting cache for: ' . $child->attribute( 'name' ) . ' [MainNodeID: ' . $id .']';
         		$this->log( $log );
 
-                // eZContentObjectTreeNode::removeSubtrees( $deleteIDArray, false );
                 eZContentObjectTreeNode::removeSubtrees( $deleteIDArray, false );
 
                 unset( $deleteIDArray );
